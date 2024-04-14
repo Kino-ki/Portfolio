@@ -1,0 +1,108 @@
+{   "navbar": {
+        "works": {
+            "fr": "PROJETS",
+            "en": "WORKS"
+        },
+        "about" : {
+            "fr": "A PROPOS",
+            "en" : "ABOUT"
+        },
+        "home" : {
+            "fr": "ACCUEIL",
+            "en" : "HOME"
+        }    
+},
+    "biography" : {
+            "fr" : "En tant que développeuse Full Stack et musicienne, j'apporte un mélange unique de créativité et d'expertise technique à mes projets. \n Avec une formation en anthropologie et une décennie d'expérience dans les secteurs de la librairie et de l'événementiel, j'ai effectué une transition vers le domaine du développement web en suivant un bootcamp intensif de développeuse Full Stack. \nCe parcours diversifié m'a doté d'une compréhension profonde du comportement humain et d'une passion pour la création d'expériences numériques captivantes.",
+            "en" : "As a Full Stack developer and musician, I bring a unique blend of creativity and technical expertise to my projects.\n With a background in anthropology, along with a decade of experience working in both the bookstore and events industries, I transitioned into the field of web development by completing a rigorous Full Stack bootcamp.\n This diverse journey has equipped me with a deep understanding of human behavior and a passion for crafting engaging digital experiences."
+        },
+
+        "contact" : {
+            "fr" :"Besoin d'un site web sur mesure ou de prendre soin de votre présence en ligne ? \n Contactez-moi et ensemble, donnons vie à votre vision numérique! ",
+            "en" :"Need a custom website or to take care of your online presence? \n Get in touch and we'll bring your digital vision to life."
+        },
+
+
+
+    "projects" : {
+        "fr": "PROJETS",
+        "en": "WORKS",
+
+        "dragoti" : {
+            "name" : "DRAGOTI",
+            "description":{
+                "introduction":{
+                    "fr": ["Jeu mobile inspiré de Tamagochi." ,"Dragoti, le petit dragon, a besoin de l'utilisateur.ice pour se nourrir et se soigner. "],
+                    "en" : ["Mobile game inspired by Tamagotchi", " Dragoti, the little dragon, relies on the user to feed and care for it."]
+                },
+                "production" :{
+                    "fr" : "Présenté sur une seule page pour une expérience plus simple et fluide, l'application comporte 3 sections: ",
+                    "en" :"Presented on a single page for a simpler and smoother experience, the application consists of 3 sections:"
+
+                },
+                "context" : {
+                    "fr" : "Premier Projet. Réalisé en équipe et sans frameworks \n  \n JS, HTML, CSS. \n Une excellente opportunité d'apprendre a maitriser les outis Git/Github. ",
+                    "en" : "First Project. Created as a team and without frameworks.  \n JS, HTML, CSS. \n An excellent opportunity to learn how to master Git/Github tools."
+                }
+            }
+
+        },
+        "omega" : {
+            "name" : "OMEGA",
+            "description" : {
+                "introduction" :{
+                    "fr": "Application mobile avec chatbot intégré, destinée à assister les consommateurs de L'Oréal dans l'utilisation de produits adaptés. ",
+                    "en" : "A mobile application with integrated chatbot designed to assist L'Oréal consumers in using appropriate products."
+                },
+                "production" :{
+                    "fr" : "L'application récupère les données météorologiques locales pour recommander des produits adaptés en conséquence.",
+                    "en" :"The app retrieves local weather data to recommend suitable products accordingly."
+
+                },
+                "function" :{
+                    "fr" : "En outre, elle offre un service d'achat en ligne et intègre un chatbot (Open AI) pour des conseils personnalisés supplémentaires.",
+                    "en" :" Additionally, it provides an online shopping service and integrates a chatbot (Open AI) for further personalized advice."
+
+                },
+                "context" : {
+                    "fr" : 
+                    "Créé en deux jours lors du hackathon Wild Code School x L'Oréal, ce projet a été récompensé par le Prix du Design.",
+                    "en" : "Created in two days during the Wild Code School x L'Oréal hackathon, this project was awarded the Design Prize."
+                }
+
+            }
+        },
+        "mapping_art" : {
+            "name" : "MAPPING ART",
+            "description" : {
+                "introduction" :{
+                    "fr": "Une application web et mobile de chasse au street art.",
+                    "en" : "A web and mobile application dedicated to street art hunting."
+                },
+                "production" :{
+                    "fr" : "Les utilisateurs peuvent explorer les œuvres d'art urbain à proximité, tandis que les membres contribuent en partageant leurs propres photos.",
+                    "en" :"Users can explore urban artworks nearby, while members contribute by sharing their own photos."
+
+                },
+                "function" :{
+                    "fr" : "Un panneau d'administration est mis en place pour garantir la qualité du contenu visuel.",
+                    "en" :"An administration panel is set up to ensure the quality of visual content."
+
+                },
+                "context" : {
+                    "fr" : "Projet de fin de formation: \n Une application Full Stack intégrant une base de données relationnelle, développée en collaboration avec une équipe dynamique. ",
+                    "en" : "End-of-course project:\n  A Full Stack application integrating a relational database, developed in collaboration with a dynamic team. "
+                }
+
+            }
+        }
+
+    },
+    "presentation" : {
+        "name" : "Faiza Fehri",
+        "description": {
+            "fr": "Passionnée par la création d'expériences numériques immersives.\n Développeuse Full Stack et musicienne avec une expérience diversifiée en anthropologie, librairies et événementiel. \n Je transite vers le développement web, ",
+            "en": "Passionate about crafting immersive digital experiences. \n Full Stack developer and musician with diverse experience in anthropology, bookstores, and events. \n Transitioned to web development through intensive training, ."
+        }
+    }
+}

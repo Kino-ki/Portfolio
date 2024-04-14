@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Pixelify+Sans:wght@400..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+  @font-face {
+    font-family: "CamptonBookLight";
+    src: url("./assets/fonts/CamptonLight.otf") format("opentype");
+  }
+
+
+  @font-face {
+    font-family: "CamptonBook";
+    src: url("./assets/fonts/CamptonBook.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "Kinfolk";
+    src: url("./assets/fonts/KinfolkReg.otf") format("opentype");
+  }
+}
+
+
+@layer utilities {
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+      display: none;
+  }
+ /* Hide scrollbar for IE, Edge and Firefox */
+  .no-scrollbar {
+      -ms-overflow-style: none;  /* IE and Edge */
+      scrollbar-width: none;  /* Firefox */
+}
+}
+/* * {
+  outline : 1px solid red;
+
+}  */
